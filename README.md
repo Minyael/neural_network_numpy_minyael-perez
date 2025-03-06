@@ -4,7 +4,7 @@
 
 ## Descripción General
 
-Este proyecto implementa una red neuronal desde cero utilizando **NumPy** y **Scikit-learn**, sin depender de frameworks avanzados como TensorFlow o Keras. La red neuronal se entrena para clasificar datos generados sintéticamente en dos clases. Este proyecto fue realizado con Python 3.12.
+Este proyecto implementa una red neuronal desde cero utilizando **NumPy** y **Scikit-learn**. La red neuronal se entrena para clasificar datos generados sintéticamente en dos clases. Este proyecto fue realizado con Python 3.12.
 
 ---
 
